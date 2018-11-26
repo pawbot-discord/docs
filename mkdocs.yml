@@ -4,3 +4,5 @@ nav:
     - About: about.md
     - Commands: commands.md
     - loremipsum: loremipsum.md
+theme: readthedocs
+
