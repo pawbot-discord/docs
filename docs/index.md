@@ -4,5 +4,8 @@ To invite Pawbot: Use [this link](https://discordapp.com/oauth2/authorize?client
 
 ## Credits
 
-[Paws#0001](https://github.com/lyricalpaws): Repo Maintainer, Lead Developer
+[Paws#0001](https://github.com/lyricalpaws): Developer
 
+[SarrowSeviper#4173](https://github.com/SarrowSeviper): Snek
+
+[AlexFlipnote#0001](https://github.com/AlexFlipnote): Made the base code for Pawbot that she evolved from
